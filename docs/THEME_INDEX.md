@@ -145,4 +145,4 @@ When contributing to theme functionality:
 
 ---
 
-*Documentation created for YouTube Music Desktop App v3.5.1*
+*Documentation for YouTube Music Desktop App*
