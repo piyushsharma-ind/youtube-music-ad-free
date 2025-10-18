@@ -92,5 +92,6 @@ cat src/plugins/album-color-theme/index.ts
 ## 📚 Related Documentation
 
 - [Full Theme Section Guide](./THEME_SECTION_GUIDE.md) - Comprehensive documentation
+- [Theme Architecture](./THEME_ARCHITECTURE.md) - System architecture and data flows
 - [README - Themes Section](../README.md#themes) - User guide
 - [Plugin Development Guide](../README.md#build-your-own-plugins) - Creating theme plugins

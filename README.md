@@ -235,6 +235,7 @@ Some predefined themes are available in https://github.com/kerichdev/themes-for-
 **Developer Documentation:**
 - [Theme Section Guide](./docs/THEME_SECTION_GUIDE.md) - Comprehensive documentation on theme implementation
 - [Theme Section Quick Reference](./docs/THEME_SECTION_QUICK_REFERENCE.md) - Quick reference for developers
+- [Theme Architecture](./docs/THEME_ARCHITECTURE.md) - System architecture and data flow diagrams
 
 ## Dev
 
