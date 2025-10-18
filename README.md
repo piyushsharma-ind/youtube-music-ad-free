@@ -233,6 +233,7 @@ You can load CSS files to change the look of the application (Options > Visual T
 Some predefined themes are available in https://github.com/kerichdev/themes-for-ytmdesktop-player.
 
 **Developer Documentation:** See [Theme Documentation Index](./docs/THEME_INDEX.md) for complete guide
+
 - [Theme Section Quick Reference](./docs/THEME_SECTION_QUICK_REFERENCE.md) - Quick reference for developers
 - [Theme Section Guide](./docs/THEME_SECTION_GUIDE.md) - Comprehensive documentation on theme implementation
 - [Theme Architecture](./docs/THEME_ARCHITECTURE.md) - System architecture and data flow diagrams
